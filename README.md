@@ -1,2 +1,0 @@
-# resolutetest
-Testing resolute stuff
